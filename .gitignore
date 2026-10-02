@@ -1,0 +1,11 @@
+# Local virtual environment
+.venv/
+
+# Test and sample images
+TestImages/
+
+# Python caches and local tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+

@@ -1,0 +1,2 @@
+"""Face detection application package."""
+
